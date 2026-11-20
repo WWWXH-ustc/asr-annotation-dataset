@@ -1,0 +1,1 @@
+{"default":{"train":{"meta":"","file":"train.zip"},"test":{"meta":"","file":"except_TS_test1.zip"},"validation":{"meta":"","file":"dev.zip"}}, "only_topic_segmentation":{"train":{"meta":"","file":"train.zip"},"test":{"meta":"","file":"only_TS_test1.zip"},"validation":{"meta":"","file":"dev.zip"}}}

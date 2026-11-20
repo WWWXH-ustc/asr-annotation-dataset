@@ -15,3 +15,7 @@ copy /b asr-audio.zip.part01+asr-audio.zip.part02 asr-audio.zip
 ```
 
 拼接后可使用随附的 `SHA256SUMS.txt` 核对原 ZIP，再正常解压。
+
+## AliMeeting4MUG 会议文本语料
+
+原始数据压缩包、官方说明与校验文件见 [datasets/AliMeeting4MUG](datasets/AliMeeting4MUG/DOWNLOAD.md)。共654场去重会议，包含训练集、开发集及测试集文本。
